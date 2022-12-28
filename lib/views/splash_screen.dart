@@ -7,9 +7,7 @@ class SplashScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Column(
-        children: [
-          Text('Time out')
-        ],
+        children: [Text('Time out')],
       ),
     );
   }
