@@ -5,6 +5,6 @@ class ProfileScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Text('Edit profile mod');
+    return const Text('Edit location page implementation');
   }
 }
